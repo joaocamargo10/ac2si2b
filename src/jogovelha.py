@@ -4,7 +4,7 @@ def inicializar():
 		linha = [ ]
 		for j in range(3):
 			linha.append(".")
-		tab.append(linha)
+		tab.ap pend(linha)
 	return tab
 
 def main( ):
@@ -13,3 +13,4 @@ def main( ):
 
 if __name__ == "__main__":
 	main()
+
